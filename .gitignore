@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.spec
+dist/
+build/
+.build/
+data/
+releases/
+*.exe
+*.zip
+*.sqlite3*
+*.part
+validation/
